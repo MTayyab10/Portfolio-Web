@@ -1,3 +1,3 @@
 ## Portfolio-Web
 
-A simple Responsive Portfolio Website using html, css &amp; bootstrap
+A simple Responsive Portfolio website using html, css &amp; bootstrap
